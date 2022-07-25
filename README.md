@@ -14,7 +14,7 @@
 This analysis of the Indonesia Data related jobb market provides some insights on the hiring trends from more than a 900 data related job postings on **LinkedIn**
 Hopefully, these insights will help me and everyone who visits my repository in the job search process.
 
-## 📄 Insights 
+## ✍️ Insights 
  This Analysis provides answers to different questions such as: 
  - What are the top Province where Data jobs are in demand? 
  - What are the companies that hire the most in this field? 
